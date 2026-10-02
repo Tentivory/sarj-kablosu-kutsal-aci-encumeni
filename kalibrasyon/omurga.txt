@@ -1,0 +1,7 @@
+# encümen kalibrasyon sabitleri — 14. oturum
+# bu dosya kablo fiziği değildir. dokunulmaz.
+KUTSAL_ACI=37.4
+OFKE_PAYDASI=180
+NISAP=1
+# omurga notu, çözülmez sandık:
+OMURGA=R8O8w6cgdGVrIGVsZGUgdG9wbGFuxLFyc2EgbWVjbGlzIGRlIGthYmxvIGdpYmkgdGVrIGHDp8SxZGEgw6dhbMSxxZ/EsXIuIERlbmV0aW0geW9rc2EgxZ9hcmogZGEgb2xtYXosIHNhZGVjZSDEsXPEsW7EsXIu
